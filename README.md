@@ -20,6 +20,6 @@ Within the scripts directory, you will find some simple R scripts for creating a
 ### .gitignore
 All the files on the local computer that should not be tracked by Git. RStudio will automatically generate a number of rules for standard R files that should not be included in the global repository (e.g., .RData files).
 
-##Troubleshooting
-###RStudio GitHub Integration
-- 
+## Troubleshooting
+### RStudio GitHub Integration
+- To start a project managed through RStudio, I recommend creating a repository on GitHub first, and then cloning it when you create a new project in RStudio. It is not easy to create a local repository first that you use to create one on GitHub. Create an empty one on GitHub first and then clone it through the RStudio software.

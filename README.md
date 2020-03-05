@@ -43,4 +43,4 @@ All the files on the local computer that should not be tracked by Git. RStudio w
 - The official Git book from [Pro Git](https://git-scm.com/book/en/v2).
 - Resources from GitHub [link](https://help.github.com/en/github/getting-started-with-github/git-and-github-learning-resources)
 - Integrating a GitHub repository into OSF [osf link](https://help.osf.io/hc/en-us/articles/360019929813-Connect-GitHub-to-a-Project)
-- Vourre and Curley wrote a nice introduction to using git for psycholgists. It is freely available [here](https://journals.sagepub.com/doi/full/10.1177/2515245918754826). The supplemental material has additional step-by-step instructions.
+- Vuorre and Curley (2018) wrote a nice introduction to using git for psycholgists. It is freely available [here](https://journals.sagepub.com/doi/full/10.1177/2515245918754826). The supplemental material has additional step-by-step instructions.

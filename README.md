@@ -42,3 +42,4 @@ All the files on the local computer that should not be tracked by Git. RStudio w
 ## More resources:
 - The official Git book from [Pro Git](https://git-scm.com/book/en/v2).
 - Resources from GitHub [link](https://help.github.com/en/github/getting-started-with-github/git-and-github-learning-resources)
+- Integrating a GitHub repository into OSF [osf link](https://help.osf.io/hc/en-us/articles/360019929813-Connect-GitHub-to-a-Project)

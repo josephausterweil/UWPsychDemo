@@ -38,3 +38,7 @@ All the files on the local computer that should not be tracked by Git. RStudio w
 ### Wrong GitHub account is being used with RStudio
 
 - On Windows, the Windows Credential System is often used to integrate git and GitHub together. You should delete the git entry there and then it will automatically get recreated the next time you push to GitHub (and you will be asked then to re-enter your GitHub login/pass).  
+
+## More resources:
+- The official Git book from [Pro Git](https://git-scm.com/book/en/v2).
+- Resources from GitHub [link](https://help.github.com/en/github/getting-started-with-github/git-and-github-learning-resources)
